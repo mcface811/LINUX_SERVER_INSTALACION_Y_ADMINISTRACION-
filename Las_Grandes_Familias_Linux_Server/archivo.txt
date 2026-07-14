@@ -1,0 +1,1 @@
+Esta investigación documental analiza en detalle las tres distribuciones de Linux para servidores más influyentes de la industria actual: Ubuntu, Debian y Rocky Linux. El estudio examina a fondo su origen, línea de sangre, ciclos de soporte y casos de uso ideales en entornos corporativos, contrastando la filosofía del soporte empresarial frente al desarrollo comunitario
